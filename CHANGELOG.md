@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.4
+- Tools category
+- conversion bug CanBus Analyzer - CANalyst-II
+
 ## v3.3
 - Upload multiple file
 - Merge output .svy file
