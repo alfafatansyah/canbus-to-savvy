@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.5
+- Update timestamp convert time CANFD
+Note: Pastikan File >> Preferences >> Time Keeping >> Seconds. Nilai X pada grafik mewakili detik
+
 ## v3.4
 - Tools category
 - conversion bug CanBus Analyzer - CANalyst-II
