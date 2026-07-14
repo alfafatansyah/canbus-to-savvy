@@ -1,5 +1,8 @@
 # Changelog
 
+## v3.6
+- Solve bug convert CANFD nilai bite hilang (eg: D8 = 36 --> 3)
+
 ## v3.5
 - Update timestamp convert time CANFD
 Note: Pastikan File >> Preferences >> Time Keeping >> Seconds. Nilai X pada grafik mewakili detik
