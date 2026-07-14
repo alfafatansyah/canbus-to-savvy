@@ -1,7 +1,7 @@
 # Changelog
 
 ## v3.6
-- Solve bug convert CANFD nilai bite hilang (eg: D8 = 36 --> 3)
+- Solve bug convert CANFD nilai byte hilang (eg: D8 = 36 --> 3)
 
 ## v3.5
 - Update timestamp convert time CANFD
